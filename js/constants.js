@@ -1,0 +1,1 @@
+const MAX_SIZE_STACK = 1024;
